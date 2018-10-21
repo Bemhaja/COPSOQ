@@ -1,2 +1,3 @@
-# COPSOQ
-Portuguese Version of COPSOQ
+# COPSOQ II 
+Portuguese Version of COPSOQ II   -   2011
+PTDC/SAU-ESA/66163/2006 (FCOMP-01-0124-FEDER007481).
